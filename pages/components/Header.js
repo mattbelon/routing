@@ -40,6 +40,11 @@ function Header(){
               AmazonVideo
             </Link>
             </div>
+            <div className="navbar-item">
+            <Link href="/producto/3">
+              Spotify
+            </Link>
+            </div>
             <hr className="navbar-divider" />
             <a className="navbar-item">
             Contacto

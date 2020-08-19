@@ -19,8 +19,8 @@ export default {
       }, 
       {
         _id: '3',
-        name: 'Spoty',
-        category: 'video',
+        name: 'Spotify',
+        category: 'audio',
         image: '/images/amazon.jpg',
         price: 2700,
         description: 'Calidad de visualización HD/4K\n - Hasta 1 dispositivo a la vez \n- Entrega por correo electrónico o whatsapp al instante.',
